@@ -57,8 +57,7 @@ This strategy **reduces code duplication**, improves readability, and allows eas
 - Console interaction (`cin / cout`)
 
 ---
-
-## ScreenShots
+## 📷 ScreenShots :
 
 <img width="1483" height="762" alt="Screenshot 2026-01-10 140742" src="https://github.com/user-attachments/assets/cb77f03e-cbbb-4fe1-919e-d6603a2673e5" />
 
