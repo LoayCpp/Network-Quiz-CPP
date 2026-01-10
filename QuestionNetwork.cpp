@@ -128,12 +128,16 @@ void PrintAllQuestions(stQuestion Q) {
 
 }
 
+void start() {
 
-int main()
-{
 	for (short i = 0; i < 8; i++) {
 
 		PrintAllQuestions(Question[i]);
+	}
+
 }
+int main()
+{
+	start();
 }
 
