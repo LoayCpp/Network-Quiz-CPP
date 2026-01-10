@@ -59,7 +59,7 @@ This strategy **reduces code duplication**, improves readability, and allows eas
 ---
 ## 📷 ScreenShots :
 
-<img width="1483" height="762" alt="Screenshot 2026-01-10 140742" src="https://github.com/user-attachments/assets/cb77f03e-cbbb-4fe1-919e-d6603a2673e5" />
+<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/3ae55e1c-bc9d-4b82-868b-85216e30ed1f" />
 
 ---
 
