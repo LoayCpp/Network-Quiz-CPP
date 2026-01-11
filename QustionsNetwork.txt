@@ -1,0 +1,8 @@
+A- What is the term for a group of connected computers and devices?#//#Server#//#Network#//#Protocol#//#Browser#//#2
+B- Which type of network covers a small area like a home, school, or hospital?#//#WAN#//#LAN#//#MAN#//#VPN#//#2
+C- What does the acronym (Wi-Fi) stand for?#//#Wireless Frequency#//#Wired Fidelity#//#Wireless Fidelity#//#Web Fidelity#//#3
+D- Standard set of rules for how devices communicate through wires or wireless is called?#//#Switch#//#Router#//#Protocol#//#Port#//#3
+E- Which protocol is responsible for assembling messages into smaller packets and reassembling them at the destination?#//#IP#//#HTTP#//#TCP#//#FTP#//#3
+F- Which protocol automatically provides an IP address and other configuration information to devices on a network?#//#DHCP#//#DNS#//#NAT#//#ISP#//#1
+H- Hardware identifier that uniquely identifies each device on a network and is assigned by the manufacturer is the?#//#IP Address#//#MAC Address#//#Socket Address#//#Subnet Mask#//#2
+I- Which technology protects your internet traffic by creating an encrypted tunnel and changing your IP address?#//#Firewall#//#VPN#//#Proxy#//#Gateway#//#2

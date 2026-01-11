@@ -1,2 +1,3 @@
 ﻿  QuestionNetwork.cpp
+C:\Users\loaya\Desktop\GitHubLoay\Network-Quiz-CPP\QuestionNetwork.cpp(33,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
   QuestionNetwork.vcxproj -> C:\Users\loaya\Desktop\GitHubLoay\Network-Quiz-CPP\x64\Debug\QuestionNetwork.exe
