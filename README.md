@@ -57,12 +57,64 @@ This strategy **reduces code duplication**, improves readability, and allows eas
 - Console interaction (`cin / cout`)
 
 ---
-## 📷 ScreenShots :
 
-<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/3ae55e1c-bc9d-4b82-868b-85216e30ed1f" />
+## 🛠️ Project Evolution & Changes
+
+This project has gone through multiple learning-driven refactoring stages.
+Below is a summary of how the code evolved over time:
+
+### 🔹 Initial Version
+- Each question was implemented in a **separate function**
+- Questions were hard-coded directly inside the program
+- Navigation between questions relied on **manual function calls**
+- This approach helped in understanding:
+  - Function flow
+  - Program execution order
+  - Basic conditional logic
 
 ---
 
+### 🔹 Refactored Version (Current)
+- Introduced a `stQuestion` struct to represent each question
+- All questions are now stored in a **single global array**
+- A **for loop** iterates over the questions dynamically
+- A **single function** handles:
+  - Printing the question
+  - Displaying choices
+  - Validating input
+  - Checking the correct answer
+- Reduced code duplication significantly
+- Improved readability and maintainability
+- New questions can be added easily without changing program logic
+
+---
+
+### 🔹 Latest Improvement
+- Questions are loaded from an **external text file**
+- File-based questions are parsed and stored in a `vector<stQuestion>`
+- This makes the application more flexible and data-driven
+- Allows modifying or expanding the quiz without recompiling the code
+
+---
+
+### 🎯 Learning Outcome
+This evolution reflects a transition from:
+> **Function-heavy, static code**  
+to  
+> **Modular, scalable, and data-driven design**
+
+The refactoring process was intentionally done step by step to strengthen core C++ concepts and clean-code thinking.
+
+## 📷 ScreenShots :
+---
+### This console programming :   
+<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/3ae55e1c-bc9d-4b82-868b-85216e30ed1f" />
+---
+
+### This File Is Question Like Database 😊:   
+<img width="1617" height="671" alt="image" src="https://github.com/user-attachments/assets/7b4de82e-deae-4d62-beb3-82d5865a9a9b" />
+
+---
 ## ▶️ How to Run
 
 1. Clone the repository:
