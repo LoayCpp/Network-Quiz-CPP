@@ -6,3 +6,13 @@ E- Which protocol is responsible for assembling messages into smaller packets an
 F- Which protocol automatically provides an IP address and other configuration information to devices on a network?#//#DHCP#//#DNS#//#NAT#//#ISP#//#1
 H- Hardware identifier that uniquely identifies each device on a network and is assigned by the manufacturer is the?#//#IP Address#//#MAC Address#//#Socket Address#//#Subnet Mask#//#2
 I- Which technology protects your internet traffic by creating an encrypted tunnel and changing your IP address?#//#Firewall#//#VPN#//#Proxy#//#Gateway#//#2
+J- What is the definition of a Network?#//#A single computer running software.#//#A group of connected computers and devices.#//#A standard set of rules for communication.#//#A physical address assigned by a manufacturer.#//#2
+K- Which network type covers a large area, such as between countries or worldwide?#//#LAN (Local Area Network)#//#MAN (Metropolitan Area Network)#//#WAN (Wide Area Network)#//#VPN (Virtual Private Network)#//#3
+L- What protocol is responsible for splitting data into "packets" and reassembling them?#//#IP (Internet Protocol)#//#TCP (Transmission Control Protocol)#//#HTTP (Hypertext Transfer Protocol)#//#FTP (File Transfer Protocol)#//#2
+M- Why was IPv6 created to replace IPv4?#//#Because IPv4 is too slow.#//#Because IPv4 does not provide enough addresses for all devices.#//#Because IPv4 is not secure.#//#Because IPv4 only works with wired connections.#//#2
+N- Which protocol automatically provides an IP address to devices on a network?#//#DNS (Domain Name Server)#//#NAT (Network Address Translation)#//#DHCP (Dynamic Host Configuration Protocol)#//#SMTP (Simple Mail Transfer Protocol)#//#3
+O- A "Physical Address" that is unique to each device and assigned by the manufacturer is called:#//#IP Address#//#MAC Address#//#Socket Address#//#Subnet Mask#//#2
+P- What is the main function of a VPN (Virtual Private Network)?#//#To increase internet speed.#//#To connect devices using wires.#//#To create an encrypted tunnel and protect internet traffic.#//#To translate domain names into IP addresses.#//#3
+Q- Which system acts like a "phone book" by translating domain names (like google.com) into IP addresses?#//#URL#//#ISP#//#DNS (Domain Name Server)#//#API#//#3
+R- In 3-Tier Architecture, which layer is responsible for the User Interface (UI)?#//#Presentation Tier#//#Business Tier#//#Data Tier#//#Middle Tier#//#1
+S- Which data format is known for being "lightweight" and easy for humans to read/write as an alternative to XML?#//#HTML#//#JSON (JavaScript Object Notation)#//#GUID#//#CIDR#//#2
