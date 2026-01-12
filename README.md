@@ -119,7 +119,7 @@ The refactoring process was intentionally done step by step to strengthen core C
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Network-Quiz-CPP.git
+   git clone https://github.com/LoayCpp/Network-Quiz-CPP.git
 
 ## 👤 Developer  
 <strong> Loay Anwar</strong> <br>
