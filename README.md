@@ -107,12 +107,17 @@ The refactoring process was intentionally done step by step to strengthen core C
 
 ## 📷 ScreenShots :
 ---
-### This console programming :   
+### This console programming :
 <img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/3ae55e1c-bc9d-4b82-868b-85216e30ed1f" />
+
 ---
 
 ### This File Is Question Like Database 😊:   
-<img width="1617" height="671" alt="image" src="https://github.com/user-attachments/assets/7b4de82e-deae-4d62-beb3-82d5865a9a9b" />
+<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/7b4de82e-deae-4d62-beb3-82d5865a9a9b" />
+
+---
+### This Importnatn Function :  
+<img width="1688" height="1204" alt="importnatFunction" src="https://github.com/user-attachments/assets/19fe3e2c-77f3-482a-b71b-fa839d484c9a" />
 
 ---
 ## ▶️ How to Run
