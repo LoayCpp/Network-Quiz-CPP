@@ -117,7 +117,7 @@ The refactoring process was intentionally done step by step to strengthen core C
 
 ---
 ### This Importnatn Function :  
-<img width="1688" height="1204" alt="importnatFunction" src="https://github.com/user-attachments/assets/19fe3e2c-77f3-482a-b71b-fa839d484c9a" />
+<img width="1483" height="762" alt="importnatFunction" src="https://github.com/user-attachments/assets/19fe3e2c-77f3-482a-b71b-fa839d484c9a" />
 
 ---
 ## ▶️ How to Run
