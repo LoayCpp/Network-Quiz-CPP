@@ -1,0 +1,5 @@
+A- What does OOP stand for in C++?#//#Object-Oriented Programming#//#Open Operational Protocol#//#Ordered Output Processing#//#Original Object Procedure#//#1
+B- Which OOP concept allows a class to inherit properties from another class?#//#Encapsulation#//#Polymorphism#//#Inheritance#//#Abstraction#//#3
+C- Which keyword is used to define a class in C++?#//#struct#//#class#//#object#//#define#//#2
+D- What concept in OOP allows functions to have the same name but behave differently?#//#Encapsulation#//#Polymorphism#//#Inheritance#//#Abstraction#//#2
+E- Which access specifier allows members of a class to be accessible only within the class?#//#public#//#private#//#protected#//#friend#//#2

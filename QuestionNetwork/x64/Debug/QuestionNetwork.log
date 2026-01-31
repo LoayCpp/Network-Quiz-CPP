@@ -1,3 +1,29 @@
 ﻿  QuestionNetwork.cpp
-C:\Users\loaya\Desktop\GitHubLoay\Network-Quiz-CPP\QuestionNetwork.cpp(39,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\loaya\Desktop\GitHubLoay\Network-Quiz-CPP\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QuestionNetwork.cpp')
+  
+C:\Users\loaya\Desktop\GitHubLoay\Network-Quiz-CPP\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QuestionNetwork.cpp')
+  
+C:\Users\loaya\Desktop\GitHubLoay\Network-Quiz-CPP\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QuestionNetwork.cpp')
+  
+C:\Users\loaya\Desktop\GitHubLoay\Network-Quiz-CPP\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QuestionNetwork.cpp')
+  
+C:\Users\loaya\Desktop\GitHubLoay\Network-Quiz-CPP\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QuestionNetwork.cpp')
+  
+C:\Users\loaya\Desktop\GitHubLoay\Network-Quiz-CPP\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QuestionNetwork.cpp')
+  
+C:\Users\loaya\Desktop\GitHubLoay\Network-Quiz-CPP\clsUtil.h(24,20): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QuestionNetwork.cpp')
+  
+C:\Users\loaya\Desktop\GitHubLoay\Network-Quiz-CPP\clsInputValidate.h(101,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'QuestionNetwork.cpp')
+  
+C:\Users\loaya\Desktop\GitHubLoay\Network-Quiz-CPP\clsInputValidate.h(105,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'QuestionNetwork.cpp')
+  
   QuestionNetwork.vcxproj -> C:\Users\loaya\Desktop\GitHubLoay\Network-Quiz-CPP\x64\Debug\QuestionNetwork.exe
